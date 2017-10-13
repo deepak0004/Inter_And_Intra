@@ -1,0 +1,26 @@
+public class Tester extends java.lang.Object
+{
+
+    public void <init>()
+    {
+        Tester this;
+
+        this := @this: Tester;
+        specialinvoke this.<java.lang.Object: void <init>()>();
+        return;
+    }
+
+    public int bar(int)
+    {
+        Tester this;
+        int x;
+        byte c, m, k;
+
+        this := @this: Tester;
+        x := @parameter0: int;
+        c = 2;
+        m = 4;
+        k = neg m;
+        return k;
+    }
+}

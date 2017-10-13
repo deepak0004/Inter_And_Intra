@@ -1,0 +1,2 @@
+1). If there is complex variable, then I am printing temporary variables along with variables used in java (as produced by jimple).
+2). One has to restrict within range of Int, value: Integer.MIN_VALUE is not allowed to be put.
